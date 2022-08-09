@@ -1,0 +1,180 @@
+label_id: 0
+score: 0.9749206304550171
+location_data {
+  format: RELATIVE_BOUNDING_BOX
+  relative_bounding_box {
+    xmin: 0.5079038143157959
+    ymin: 0.4760890603065491
+    width: 0.22185218334197998
+    height: 0.2958032488822937
+  }
+  relative_keypoints {
+    x: 0.5420905351638794
+    y: 0.575162947177887
+  }
+  relative_keypoints {
+    x: 0.622143566608429
+    y: 0.5564205646514893
+  }
+  relative_keypoints {
+    x: 0.5621166825294495
+    y: 0.6461854577064514
+  }
+  relative_keypoints {
+    x: 0.5818824768066406
+    y: 0.6958038210868835
+  }
+  relative_keypoints {
+    x: 0.5433844327926636
+    y: 0.5910912156105042
+  }
+  relative_keypoints {
+    x: 0.7239465713500977
+    y: 0.5521400570869446
+  }
+}
+
+label_id: 0
+score: 0.970879316329956
+location_data {
+  format: RELATIVE_BOUNDING_BOX
+  relative_bounding_box {
+    xmin: 0.5059139132499695
+    ymin: 0.47723615169525146
+    width: 0.22759181261062622
+    height: 0.3034557104110718
+  }
+  relative_keypoints {
+    x: 0.5412213802337646
+    y: 0.5778998732566833
+  }
+  relative_keypoints {
+    x: 0.6195081472396851
+    y: 0.5574297308921814
+  }
+  relative_keypoints {
+    x: 0.5587084293365479
+    y: 0.6486570239067078
+  }
+  relative_keypoints {
+    x: 0.5790953040122986
+    y: 0.702333927154541
+  }
+  relative_keypoints {
+    x: 0.5443786382675171
+    y: 0.5958086848258972
+  }
+  relative_keypoints {
+    x: 0.7251644730567932
+    y: 0.5555545687675476
+  }
+}
+
+label_id: 0
+score: 0.9728681445121765
+location_data {
+  format: RELATIVE_BOUNDING_BOX
+  relative_bounding_box {
+    xmin: 0.5036464929580688
+    ymin: 0.47124069929122925
+    width: 0.2312273383140564
+    height: 0.30830299854278564
+  }
+  relative_keypoints {
+    x: 0.5406666398048401
+    y: 0.5770227909088135
+  }
+  relative_keypoints {
+    x: 0.6194274425506592
+    y: 0.557274341583252
+  }
+  relative_keypoints {
+    x: 0.5589914917945862
+    y: 0.6527500152587891
+  }
+  relative_keypoints {
+    x: 0.5796003341674805
+    y: 0.7040019035339355
+  }
+  relative_keypoints {
+    x: 0.5435380339622498
+    y: 0.5904424786567688
+  }
+  relative_keypoints {
+    x: 0.7245150804519653
+    y: 0.5506718158721924
+  }
+}
+
+label_id: 0
+score: 0.9692217111587524
+location_data {
+  format: RELATIVE_BOUNDING_BOX
+  relative_bounding_box {
+    xmin: 0.5052069425582886
+    ymin: 0.47228115797042847
+    width: 0.22797155380249023
+    height: 0.30396199226379395
+  }
+  relative_keypoints {
+    x: 0.5415937304496765
+    y: 0.5761683583259583
+  }
+  relative_keypoints {
+    x: 0.6205342411994934
+    y: 0.5557534694671631
+  }
+  relative_keypoints {
+    x: 0.5609835982322693
+    y: 0.6491509079933167
+  }
+  relative_keypoints {
+    x: 0.5813812613487244
+    y: 0.7002179622650146
+  }
+  relative_keypoints {
+    x: 0.54352205991745
+    y: 0.5918035507202148
+  }
+  relative_keypoints {
+    x: 0.7238864302635193
+    y: 0.5504264831542969
+  }
+}
+
+label_id: 0
+score: 0.9692217111587524
+location_data {
+  format: RELATIVE_BOUNDING_BOX
+  relative_bounding_box {
+    xmin: 0.5052069425582886
+    ymin: 0.47228115797042847
+    width: 0.22797155380249023
+    height: 0.30396199226379395
+  }
+  relative_keypoints {
+    x: 0.5415937304496765
+    y: 0.5761683583259583
+  }
+  relative_keypoints {
+    x: 0.6205342411994934
+    y: 0.5557534694671631
+  }
+  relative_keypoints {
+    x: 0.5609835982322693
+    y: 0.6491509079933167
+  }
+  relative_keypoints {
+    x: 0.5813812613487244
+    y: 0.7002179622650146
+  }
+  relative_keypoints {
+    x: 0.54352205991745
+    y: 0.5918035507202148
+  }
+  relative_keypoints {
+    x: 0.7238864302635193
+    y: 0.5504264831542969
+  }
+}
+
